@@ -24,7 +24,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         calendarView = findViewById(R.id.calendarView);
-        editText = findViewById(R.id.editText);
 
         calendarView.setOnDateChangeListener(new CalendarView.OnDateChangeListener() {
             @Override
@@ -38,10 +37,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void calendarClicked() {
-
-    }
-
-    public void saveButtonEvent(View view) {
 
     }
 }

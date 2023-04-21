@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "802002392693",
+    "project_id": "calendar-app-526c9",
+    "storage_bucket": "calendar-app-526c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802002392693:android:a8685d1676890743e9ca3c",
+        "android_client_info": {
+          "package_name": "com.example.calendarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802002392693-aa39h6dd7fn19mtj7a79fog29p8ku00d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calendarapp",
+            "certificate_hash": "efe14d2993b1837c4d83ca54fe76e2cfe4b018dd"
+          }
+        },
+        {
+          "client_id": "802002392693-dkfu4ddtifnqkcloeq36l0oisr08d78u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6UZ24LRLy033GpPMoZ34wnjsNSMcSHAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802002392693-dkfu4ddtifnqkcloeq36l0oisr08d78u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
